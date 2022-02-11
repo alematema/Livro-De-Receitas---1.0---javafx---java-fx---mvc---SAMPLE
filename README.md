@@ -10,9 +10,9 @@ configurações e preferências do aplicativo.
 <li><b>comando</b><br>
 Pode-se comandar o aplicativo tanto pelo teclado (usando um key-map que o aplicativo mostra ao usuário), quanto pelo mouse.<br><br></li>
 <li><b>importação/exportação</b><br>
-Ele importa receitas de um arquivo json.
-Ele exporta receitas para um arquivo json.
-Ele imprime em pdf, total ou parcialmente, as receitas.<br><br></li>
+Ele <b>importa</b> receitas de um arquivo json.
+Ele <b>exporta</b> receitas para um arquivo json.
+Ele <b>imprime em pdf</b>, total ou parcialmente, as receitas.<br><br></li>
 <li><b>componente lista de receitas</b><br>
 Desenvolvi a lista de receitas, que é um componente do app, de maneira totalmente orientada a eventos e com recursos interessantes de multi-seleção, seleção simples, seleção alternada, inversão de seleção, pesquisa exata ou contendo a chave de busca, skin configurável.<br>
 O componente lista de receitas, na verdade, é uma extensão de um componente básico : a lista vertical scrollável.<br>
