@@ -4,6 +4,9 @@ Um livro de receitas culinárias, escrito em <b>JAVA FX, no ano 2019</b>.<br><br
 
 <img style="height:auto;" alt="" width="500" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153723933-2a9a1987-28d3-4514-9887-b08976cb7105.png"><img style="height:auto;" alt="" width="500" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153723598-59672263-c372-4a60-91d9-13e1093d44d4.png">
 
+<img style="height:auto;" alt="" width="1000" height="560" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153725004-c5a1956e-039f-479e-924b-1f9327bbc19b.png">
+
+<img style="height:auto;" alt="" width="1000" height="560" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153725127-5ee019e5-328a-41fc-a23b-8f63ebecef9e.png">
 
 
 <br><b>RESUMO TÉCNICO</b><br><br>
@@ -26,7 +29,11 @@ Pode-se comandar o aplicativo tanto pelo teclado (usando um key-map que o aplica
 Ele <b>importa</b> receitas de um arquivo json.
 Ele <b>exporta</b> receitas para um arquivo json.
 Ele <b>imprime em pdf</b>, total ou parcialmente, as receitas.<br><br>
-<br><img style="height:auto;" alt="" width="500" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153724423-901f391d-5da3-4371-bedf-685399eb2597.png">
+<br><img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153724423-901f391d-5da3-4371-bedf-685399eb2597.png">    <img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153724859-f91caddd-964a-40a9-b465-180ded19e2e7.png">
+
+  
+
+<br><img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153724423-901f391d-5da3-4371-bedf-685399eb2597.png">    <img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153724859-f91caddd-964a-40a9-b465-180ded19e2e7.png">
 
   
   </li><br><br>
@@ -44,3 +51,7 @@ Se algum cliente quiser escutar o que acontece na lista de receitas e tomar algu
 A lista de receitas, usada no aplicativo livro de receitas culinárias, é uma casquinha que envolve o <b>componente core lista vertical scrollavel</b>, extendendo, ampliando o componente core com algumas particularidades, usadas apenas no livro de receitas culinarias.
 Caso se queira usar a <b>lista vertical scrollavel</b> em outro aplicativo, por exemplo, uma agenda telefônica, basta fazer pequenas extensões e settings de textos no core e na extensão, que temos rapidamente uma lista de nomes e números telefônicos.
 <b>Reutiliza-se facilmente esse componente de software.</b><br><br></li></ul>
+
+ 
+
+
