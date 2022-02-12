@@ -1,5 +1,5 @@
 Um livro de receitas culinárias, escrito em <b>JAVA FX, no ano 2019</b>.<br>
-<b>Testado apenas em linux debian 10 e 11, ubuntu linux (18 e 20) e ubuntu budgie linux (18 e 20).</b> <br><br>
+<b>Testado apenas em linux debian 9, 10 e 11, ubuntu linux (18 e 20) e ubuntu budgie linux (18 e 20).</b> <br><br>
 
 <img style="height:auto;" alt="" width="1000" height="560" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153723293-e4c1f485-cfa1-416c-82b7-25dc67aaa315.png">
 
