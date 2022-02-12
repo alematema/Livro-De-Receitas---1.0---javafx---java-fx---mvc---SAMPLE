@@ -48,12 +48,11 @@ Ele <b>imprime em pdf</b>, total ou parcialmente, as receitas
 
 Desenvolvi a lista de receitas, que é um componente do app, de maneira totalmente orientada a eventos e com recursos interessantes de multi-seleção, seleção simples, seleção alternada, inversão de seleção, pesquisa exata ou contendo a chave de busca, skin configurável.<br>
 
-  
-  ![image](https://user-images.githubusercontent.com/9969964/153731160-c24163b3-c0c0-4956-97b1-9ce1c6b1ea5d.png)
+![image](https://user-images.githubusercontent.com/9969964/153731160-c24163b3-c0c0-4956-97b1-9ce1c6b1ea5d.png)
 
-  <br><img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153731118-fab22e7c-39ec-476c-b8de-d22be590064d.png">    <img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153731126-4ed789a8-f734-41ff-a6a3-08a70e62fb6d.png"> 
+ <img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153731118-fab22e7c-39ec-476c-b8de-d22be590064d.png">    <img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153731126-4ed789a8-f734-41ff-a6a3-08a70e62fb6d.png"> 
 
-O componente lista de receitas, na verdade, é uma extensão de um componente básico : a lista vertical scrollável.<br>
+<br>O componente lista de receitas, na verdade, é uma extensão de um componente básico : a lista vertical scrollável.<br>
 O componente <b>lista vertical scrollavel</b> foi projetado pensando em reutilização de softtware. <b>Por isso, ela foi projetada com baixo acoplamento, usando a api de listeners de eventos, do java fx.</b><br>
 Se algum cliente quiser escutar o que acontece na lista de receitas e tomar alguma decisão, basta se registrar nela que será notificado. A lista de receitas é um componente fortemente desacoplado.<br>
 A lista de receitas, usada no aplicativo livro de receitas culinárias, é uma casquinha que envolve o <b>componente core lista vertical scrollavel</b>, extendendo, ampliando o componente core com algumas particularidades, usadas apenas no livro de receitas culinarias.
