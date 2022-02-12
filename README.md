@@ -26,17 +26,15 @@ configurações e preferências do aplicativo.<br>
 <li><b>comando</b><br>
 Pode-se comandar o aplicativo tanto pelo teclado (usando um key-map que o aplicativo mostra ao usuário), quanto pelo mouse.<br><br></li>
 <li><b>importação/exportação</b><br>
-Ele <b>importa</b> receitas de um arquivo json.
-Ele <b>exporta</b> receitas para um arquivo json.
-Ele <b>imprime em pdf</b>, total ou parcialmente, as receitas.<br><br>
-<br><img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153725372-dfb19535-2d1b-43c1-ac64-3c6806dd809b.png">    <img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153725397-9654d919-2b6a-41ac-b015-aa542a241b8a.png">
-
   
-
+<br>Ele <b>importa</b> receitas de um arquivo json.
+<br><img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153725372-dfb19535-2d1b-43c1-ac64-3c6806dd809b.png">    <img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153725397-9654d919-2b6a-41ac-b015-aa542a241b8a.png">
+  
+Ele <b>exporta</b> receitas para um arquivo json.
 <br><img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153724423-901f391d-5da3-4371-bedf-685399eb2597.png">    <img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153724859-f91caddd-964a-40a9-b465-180ded19e2e7.png">
   
-  
-<br><img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153725468-85797e18-60a7-4b2c-a4ce-29607b1c51ca.png">    <img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153725484-99b8b1c2-a553-474d-a05e-2015b9ca87d9.png">  
+Ele <b>imprime em pdf</b>, total ou parcialmente, as receitas
+  <br><img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153725468-85797e18-60a7-4b2c-a4ce-29607b1c51ca.png">    <img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153725484-99b8b1c2-a553-474d-a05e-2015b9ca87d9.png">  
 
   
   </li><br><br>
