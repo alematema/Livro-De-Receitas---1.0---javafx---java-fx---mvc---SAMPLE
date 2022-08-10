@@ -1,1 +1,1 @@
-
+PARA EXECUTAR O .deb , 
