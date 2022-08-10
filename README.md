@@ -107,3 +107,9 @@ https://drive.google.com/file/d/1j4sTiKVoN2ZV6O7nqjUSPKTo1ka6AUqB/view?usp=shari
 
 </ul>
 
+<br>
+
+### CONTATO
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="alexandre-siqueira-463b2220" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/alexandre-siqueira-463b2220?trk=profile-badge">Alexandre Siqueira</a></div>
+              
+
