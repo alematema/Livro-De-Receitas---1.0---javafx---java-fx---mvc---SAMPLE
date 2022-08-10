@@ -1,3 +1,4 @@
+### Livro De Receitas Culinárias App
 Um livro de receitas culinárias, escrito em <b>JAVA FX, no ano 2019</b>.<br>
 <b>Testado apenas em linux debian 9, 10 e 11, ubuntu linux (18 e 20) e ubuntu budgie linux (18 e 20).</b> <br><br>
 
@@ -10,7 +11,7 @@ Um livro de receitas culinárias, escrito em <b>JAVA FX, no ano 2019</b>.<br>
 <img style="height:auto;" alt="" width="1000" height="560" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153725127-5ee019e5-328a-41fc-a23b-8f63ebecef9e.png">
 
 
-<br><b>RESUMO TÉCNICO</b><br><br>
+### RESUMO TÉCNICO<
 Nesse projeto foram implementados <b>multi-threading, mvc design-pattern, observer design pattern, programação orientada a eventos, navegação entre as páginas, instalação automática de um banco de dados sql leve</b>, desde que haja permissao de escrita... Esse banco de dados persiste as receitas culinárias, informações de status,
 configurações e preferências do aplicativo.<br>
 
@@ -22,7 +23,7 @@ configurações e preferências do aplicativo.<br>
 
 
 
-<br><b>RECURSOS DO APLICATIVO</b><br><br>
+### RECURSOS DO APLICATIVO
 <ul>
 <li><b>comando</b><br>
 Pode-se comandar o aplicativo tanto pelo teclado (usando um key-map que o aplicativo mostra ao usuário), quanto pelo mouse.<br><br></li>
@@ -45,7 +46,7 @@ Ele <b>imprime em pdf</b>, total ou parcialmente, as receitas
 
  
 
-
+### FLEXIBILIDADE
 Desenvolvi a lista de receitas, que é um componente do app, de maneira totalmente orientada a eventos e com recursos interessantes de multi-seleção, seleção simples, seleção alternada, inversão de seleção, pesquisa exata ou contendo a chave de busca, skin configurável.<br>
 
 ![image](https://user-images.githubusercontent.com/9969964/153731160-c24163b3-c0c0-4956-97b1-9ce1c6b1ea5d.png)
