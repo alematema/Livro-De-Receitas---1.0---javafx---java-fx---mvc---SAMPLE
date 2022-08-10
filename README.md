@@ -64,4 +64,9 @@ Caso se queira usar a <b>lista vertical scrollavel</b> em outro aplicativo, por 
 
  
 
+### EXECUTAR O APP
+Fazer download da pasta dist<br>
+NO SEU Shell, apontar para <b>JDK 1.8.0_192</b><br>
 
+1. ENTRAR NA PASTA dist<br>
+2. DENTRO DA PASTA dist, RODAR O COMANDO <b>java -jar Livro De Receitas - 1.0 - mvc - SAMPLE.jar</b>
