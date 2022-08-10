@@ -11,7 +11,7 @@ Um livro de receitas culinárias, escrito em <b>JAVA FX, no ano 2019</b>.<br>
 <img style="height:auto;" alt="" width="1000" height="560" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153725127-5ee019e5-328a-41fc-a23b-8f63ebecef9e.png">
 
 
-### RESUMO TÉCNICO<
+### RESUMO TÉCNICO
 Nesse projeto foram implementados <b>multi-threading, mvc design-pattern, observer design pattern, programação orientada a eventos, navegação entre as páginas, instalação automática de um banco de dados sql leve</b>, desde que haja permissao de escrita... Esse banco de dados persiste as receitas culinárias, informações de status,
 configurações e preferências do aplicativo.<br>
 
@@ -54,6 +54,7 @@ Desenvolvi a lista de receitas, que é um componente do app, de maneira totalmen
 
  <img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153731118-fab22e7c-39ec-476c-b8de-d22be590064d.png">    <img style="height:auto;" alt="" width="480" height="280" class="avatar avatar-user width-full border color-bg-default" src="https://user-images.githubusercontent.com/9969964/153731126-4ed789a8-f734-41ff-a6a3-08a70e62fb6d.png"> 
 
+#### Orientação ao Objeto  
 <br>O componente lista de receitas, na verdade, é uma extensão de um componente básico : a lista vertical scrollável.<br>
 O componente <b>lista vertical scrollavel</b> foi projetado pensando em reutilização de softtware. <b>Por isso, ela foi projetada com baixo acoplamento, usando a api de listeners de eventos, do java fx.</b><br>
 Se algum cliente quiser escutar o que acontece na lista de receitas e tomar alguma decisão, basta se registrar nela que será notificado. A lista de receitas é um componente fortemente desacoplado.<br>
