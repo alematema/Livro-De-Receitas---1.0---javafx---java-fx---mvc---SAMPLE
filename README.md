@@ -77,7 +77,7 @@ O github limita uploads até 100MB. <br>
 Segue link no Drive Google do instalador :<br><br>
 https://drive.google.com/file/d/1j4sTiKVoN2ZV6O7nqjUSPKTo1ka6AUqB/view?usp=sharing<br> <br>
 
-#### INSTALAÇÃO
+#### Instalação
 <ul>
 <li>descompactar a <b>pasta bundles.exemplo.copyright</b>, que está dentro do arquivo .tar.gz, na pasta /LivroDeReceitas/ </li>
 <ul>
@@ -93,7 +93,7 @@ https://drive.google.com/file/d/1j4sTiKVoN2ZV6O7nqjUSPKTo1ka6AUqB/view?usp=shari
 </ul>
 
 <br><br>
-#### DESINSTALAÇÃO
+#### Desinstalação
 <ul>
 <ul>
 <li><b>OU</b></li>
